@@ -1,0 +1,14 @@
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net8.0\InterfaceExercise.exe
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net8.0\InterfaceExercise.deps.json
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net8.0\InterfaceExercise.runtimeconfig.json
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net8.0\InterfaceExercise.dll
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\bin\Debug\net8.0\InterfaceExercise.pdb
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.dll
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\refint\InterfaceExercise.dll
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.pdb
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\InterfaceExercise.genruntimeconfig.cache
+C:\Users\Jon\repos\InterfaceExercise\InterfaceExercise\obj\Debug\net8.0\ref\InterfaceExercise.dll
