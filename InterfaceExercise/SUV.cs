@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceExercise
 {
-    internal class SUV
+    internal class SUV: IVehicle, ICompany
     {
         public SUV() { }
 
